@@ -10,7 +10,7 @@ Available options are:
 - `concurrency`: Number of concurrent requests;
 - `method`: HTTP method to use;
 
-\* Are required parameters
+\* Required parameter
 
 ## Usage
 
